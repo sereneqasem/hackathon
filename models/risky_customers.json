@@ -1,0 +1,1892 @@
+[
+  {
+    "customer_id": "CUST-1001",
+    "avg_invoice_amount": 1591.1524,
+    "invoice_count": 25,
+    "max_invoice_amount": 5047.35
+  },
+  {
+    "customer_id": "CUST-1002",
+    "avg_invoice_amount": 4030.4513333333334,
+    "invoice_count": 15,
+    "max_invoice_amount": 8464.68
+  },
+  {
+    "customer_id": "CUST-1003",
+    "avg_invoice_amount": 2458.119375,
+    "invoice_count": 16,
+    "max_invoice_amount": 7448.72
+  },
+  {
+    "customer_id": "CUST-1004",
+    "avg_invoice_amount": 2081.0225,
+    "invoice_count": 20,
+    "max_invoice_amount": 8252.46
+  },
+  {
+    "customer_id": "CUST-1006",
+    "avg_invoice_amount": 2121.52,
+    "invoice_count": 18,
+    "max_invoice_amount": 6671.28
+  },
+  {
+    "customer_id": "CUST-1007",
+    "avg_invoice_amount": 2779.128571428571,
+    "invoice_count": 14,
+    "max_invoice_amount": 7642.86
+  },
+  {
+    "customer_id": "CUST-1008",
+    "avg_invoice_amount": 1824.311428571429,
+    "invoice_count": 14,
+    "max_invoice_amount": 5554.22
+  },
+  {
+    "customer_id": "CUST-1009",
+    "avg_invoice_amount": 3180.138076923077,
+    "invoice_count": 26,
+    "max_invoice_amount": 8921.4
+  },
+  {
+    "customer_id": "CUST-1010",
+    "avg_invoice_amount": 3026.840714285714,
+    "invoice_count": 14,
+    "max_invoice_amount": 9646.8
+  },
+  {
+    "customer_id": "CUST-1011",
+    "avg_invoice_amount": 3652.32,
+    "invoice_count": 17,
+    "max_invoice_amount": 8243.0
+  },
+  {
+    "customer_id": "CUST-1012",
+    "avg_invoice_amount": 3147.9094736842103,
+    "invoice_count": 19,
+    "max_invoice_amount": 7387.2
+  },
+  {
+    "customer_id": "CUST-1013",
+    "avg_invoice_amount": 2914.742222222222,
+    "invoice_count": 18,
+    "max_invoice_amount": 6834.6
+  },
+  {
+    "customer_id": "CUST-1014",
+    "avg_invoice_amount": 2710.9263636363635,
+    "invoice_count": 22,
+    "max_invoice_amount": 8025.36
+  },
+  {
+    "customer_id": "CUST-1016",
+    "avg_invoice_amount": 3618.1545833333334,
+    "invoice_count": 24,
+    "max_invoice_amount": 9388.47
+  },
+  {
+    "customer_id": "CUST-1017",
+    "avg_invoice_amount": 2354.2613636363635,
+    "invoice_count": 22,
+    "max_invoice_amount": 6020.42
+  },
+  {
+    "customer_id": "CUST-1019",
+    "avg_invoice_amount": 3153.265,
+    "invoice_count": 24,
+    "max_invoice_amount": 9075.73
+  },
+  {
+    "customer_id": "CUST-1021",
+    "avg_invoice_amount": 2528.639375,
+    "invoice_count": 16,
+    "max_invoice_amount": 8255.6
+  },
+  {
+    "customer_id": "CUST-1023",
+    "avg_invoice_amount": 2222.5935294117644,
+    "invoice_count": 17,
+    "max_invoice_amount": 4109.93
+  },
+  {
+    "customer_id": "CUST-1026",
+    "avg_invoice_amount": 2102.420833333333,
+    "invoice_count": 24,
+    "max_invoice_amount": 8787.24
+  },
+  {
+    "customer_id": "CUST-1027",
+    "avg_invoice_amount": 2542.029259259259,
+    "invoice_count": 27,
+    "max_invoice_amount": 9031.4
+  },
+  {
+    "customer_id": "CUST-1028",
+    "avg_invoice_amount": 2464.757916666667,
+    "invoice_count": 24,
+    "max_invoice_amount": 9086.37
+  },
+  {
+    "customer_id": "CUST-1029",
+    "avg_invoice_amount": 2309.2760000000003,
+    "invoice_count": 20,
+    "max_invoice_amount": 5043.94
+  },
+  {
+    "customer_id": "CUST-1031",
+    "avg_invoice_amount": 2315.733913043478,
+    "invoice_count": 23,
+    "max_invoice_amount": 7937.44
+  },
+  {
+    "customer_id": "CUST-1032",
+    "avg_invoice_amount": 3058.8593333333333,
+    "invoice_count": 15,
+    "max_invoice_amount": 6714.6
+  },
+  {
+    "customer_id": "CUST-1033",
+    "avg_invoice_amount": 2754.728260869565,
+    "invoice_count": 23,
+    "max_invoice_amount": 7766.79
+  },
+  {
+    "customer_id": "CUST-1038",
+    "avg_invoice_amount": 1970.346818181818,
+    "invoice_count": 22,
+    "max_invoice_amount": 6423.75
+  },
+  {
+    "customer_id": "CUST-1039",
+    "avg_invoice_amount": 2419.0108,
+    "invoice_count": 25,
+    "max_invoice_amount": 8490.53
+  },
+  {
+    "customer_id": "CUST-1044",
+    "avg_invoice_amount": 2583.844827586207,
+    "invoice_count": 29,
+    "max_invoice_amount": 8083.6
+  },
+  {
+    "customer_id": "CUST-1045",
+    "avg_invoice_amount": 2916.935,
+    "invoice_count": 12,
+    "max_invoice_amount": 7259.71
+  },
+  {
+    "customer_id": "CUST-1046",
+    "avg_invoice_amount": 2354.365238095238,
+    "invoice_count": 21,
+    "max_invoice_amount": 5584.96
+  },
+  {
+    "customer_id": "CUST-1048",
+    "avg_invoice_amount": 2955.3373913043474,
+    "invoice_count": 23,
+    "max_invoice_amount": 8789.58
+  },
+  {
+    "customer_id": "CUST-1049",
+    "avg_invoice_amount": 2353.8554166666668,
+    "invoice_count": 24,
+    "max_invoice_amount": 9864.2
+  },
+  {
+    "customer_id": "CUST-1050",
+    "avg_invoice_amount": 2344.192,
+    "invoice_count": 25,
+    "max_invoice_amount": 6517.29
+  },
+  {
+    "customer_id": "CUST-1051",
+    "avg_invoice_amount": 2856.3488235294117,
+    "invoice_count": 17,
+    "max_invoice_amount": 7283.0
+  },
+  {
+    "customer_id": "CUST-1052",
+    "avg_invoice_amount": 2085.9508695652175,
+    "invoice_count": 23,
+    "max_invoice_amount": 6605.34
+  },
+  {
+    "customer_id": "CUST-1053",
+    "avg_invoice_amount": 3015.1,
+    "invoice_count": 19,
+    "max_invoice_amount": 8775.4
+  },
+  {
+    "customer_id": "CUST-1054",
+    "avg_invoice_amount": 3389.64,
+    "invoice_count": 23,
+    "max_invoice_amount": 9991.8
+  },
+  {
+    "customer_id": "CUST-1055",
+    "avg_invoice_amount": 3086.7573076923077,
+    "invoice_count": 26,
+    "max_invoice_amount": 6814.45
+  },
+  {
+    "customer_id": "CUST-1056",
+    "avg_invoice_amount": 2768.01375,
+    "invoice_count": 16,
+    "max_invoice_amount": 7978.29
+  },
+  {
+    "customer_id": "CUST-1057",
+    "avg_invoice_amount": 2440.861875,
+    "invoice_count": 16,
+    "max_invoice_amount": 6387.23
+  },
+  {
+    "customer_id": "CUST-1058",
+    "avg_invoice_amount": 2970.489411764706,
+    "invoice_count": 17,
+    "max_invoice_amount": 6770.26
+  },
+  {
+    "customer_id": "CUST-1059",
+    "avg_invoice_amount": 3066.9284210526316,
+    "invoice_count": 19,
+    "max_invoice_amount": 7957.2
+  },
+  {
+    "customer_id": "CUST-1060",
+    "avg_invoice_amount": 1567.8499999999997,
+    "invoice_count": 12,
+    "max_invoice_amount": 5630.69
+  },
+  {
+    "customer_id": "CUST-1061",
+    "avg_invoice_amount": 2846.0708,
+    "invoice_count": 25,
+    "max_invoice_amount": 9827.0
+  },
+  {
+    "customer_id": "CUST-1062",
+    "avg_invoice_amount": 1978.521818181818,
+    "invoice_count": 22,
+    "max_invoice_amount": 6701.04
+  },
+  {
+    "customer_id": "CUST-1063",
+    "avg_invoice_amount": 3316.1247619047617,
+    "invoice_count": 21,
+    "max_invoice_amount": 9488.22
+  },
+  {
+    "customer_id": "CUST-1064",
+    "avg_invoice_amount": 2414.789523809524,
+    "invoice_count": 21,
+    "max_invoice_amount": 6279.84
+  },
+  {
+    "customer_id": "CUST-1065",
+    "avg_invoice_amount": 2978.8572222222224,
+    "invoice_count": 18,
+    "max_invoice_amount": 8233.95
+  },
+  {
+    "customer_id": "CUST-1066",
+    "avg_invoice_amount": 2995.8566666666666,
+    "invoice_count": 18,
+    "max_invoice_amount": 7716.47
+  },
+  {
+    "customer_id": "CUST-1067",
+    "avg_invoice_amount": 2324.0312,
+    "invoice_count": 25,
+    "max_invoice_amount": 8112.05
+  },
+  {
+    "customer_id": "CUST-1068",
+    "avg_invoice_amount": 2258.917142857143,
+    "invoice_count": 21,
+    "max_invoice_amount": 7141.19
+  },
+  {
+    "customer_id": "CUST-1069",
+    "avg_invoice_amount": 2547.0984615384614,
+    "invoice_count": 26,
+    "max_invoice_amount": 8424.9
+  },
+  {
+    "customer_id": "CUST-1070",
+    "avg_invoice_amount": 2508.592857142857,
+    "invoice_count": 21,
+    "max_invoice_amount": 9416.59
+  },
+  {
+    "customer_id": "CUST-1071",
+    "avg_invoice_amount": 2964.4064000000003,
+    "invoice_count": 25,
+    "max_invoice_amount": 7677.2
+  },
+  {
+    "customer_id": "CUST-1072",
+    "avg_invoice_amount": 2222.832222222222,
+    "invoice_count": 18,
+    "max_invoice_amount": 4736.82
+  },
+  {
+    "customer_id": "CUST-1073",
+    "avg_invoice_amount": 2543.5973913043476,
+    "invoice_count": 23,
+    "max_invoice_amount": 6575.66
+  },
+  {
+    "customer_id": "CUST-1074",
+    "avg_invoice_amount": 3562.935454545455,
+    "invoice_count": 22,
+    "max_invoice_amount": 8986.24
+  },
+  {
+    "customer_id": "CUST-1075",
+    "avg_invoice_amount": 2424.8504545454543,
+    "invoice_count": 22,
+    "max_invoice_amount": 9346.0
+  },
+  {
+    "customer_id": "CUST-1076",
+    "avg_invoice_amount": 2205.145,
+    "invoice_count": 16,
+    "max_invoice_amount": 5624.57
+  },
+  {
+    "customer_id": "CUST-1077",
+    "avg_invoice_amount": 3195.636470588235,
+    "invoice_count": 17,
+    "max_invoice_amount": 8542.97
+  },
+  {
+    "customer_id": "CUST-1079",
+    "avg_invoice_amount": 3259.4248,
+    "invoice_count": 25,
+    "max_invoice_amount": 7624.98
+  },
+  {
+    "customer_id": "CUST-1080",
+    "avg_invoice_amount": 3159.480588235294,
+    "invoice_count": 17,
+    "max_invoice_amount": 9208.0
+  },
+  {
+    "customer_id": "CUST-1081",
+    "avg_invoice_amount": 3184.5299999999997,
+    "invoice_count": 20,
+    "max_invoice_amount": 7228.06
+  },
+  {
+    "customer_id": "CUST-1082",
+    "avg_invoice_amount": 2664.2115384615386,
+    "invoice_count": 26,
+    "max_invoice_amount": 7626.4
+  },
+  {
+    "customer_id": "CUST-1083",
+    "avg_invoice_amount": 2424.734,
+    "invoice_count": 20,
+    "max_invoice_amount": 9109.2
+  },
+  {
+    "customer_id": "CUST-1085",
+    "avg_invoice_amount": 2494.7533333333336,
+    "invoice_count": 15,
+    "max_invoice_amount": 5067.02
+  },
+  {
+    "customer_id": "CUST-1086",
+    "avg_invoice_amount": 2435.8183333333336,
+    "invoice_count": 30,
+    "max_invoice_amount": 8407.8
+  },
+  {
+    "customer_id": "CUST-1089",
+    "avg_invoice_amount": 2567.867142857143,
+    "invoice_count": 28,
+    "max_invoice_amount": 9022.0
+  },
+  {
+    "customer_id": "CUST-1090",
+    "avg_invoice_amount": 1961.124210526316,
+    "invoice_count": 19,
+    "max_invoice_amount": 6213.84
+  },
+  {
+    "customer_id": "CUST-1091",
+    "avg_invoice_amount": 3227.984347826087,
+    "invoice_count": 23,
+    "max_invoice_amount": 8209.47
+  },
+  {
+    "customer_id": "CUST-1092",
+    "avg_invoice_amount": 2679.6404,
+    "invoice_count": 25,
+    "max_invoice_amount": 9917.4
+  },
+  {
+    "customer_id": "CUST-1093",
+    "avg_invoice_amount": 2631.2047368421054,
+    "invoice_count": 19,
+    "max_invoice_amount": 8061.57
+  },
+  {
+    "customer_id": "CUST-1094",
+    "avg_invoice_amount": 3300.9760714285717,
+    "invoice_count": 28,
+    "max_invoice_amount": 9929.8
+  },
+  {
+    "customer_id": "CUST-1097",
+    "avg_invoice_amount": 2805.1336363636365,
+    "invoice_count": 22,
+    "max_invoice_amount": 8916.4
+  },
+  {
+    "customer_id": "CUST-1099",
+    "avg_invoice_amount": 2723.2285714285717,
+    "invoice_count": 14,
+    "max_invoice_amount": 5999.52
+  },
+  {
+    "customer_id": "CUST-1100",
+    "avg_invoice_amount": 3241.6344444444444,
+    "invoice_count": 18,
+    "max_invoice_amount": 7578.54
+  },
+  {
+    "customer_id": "CUST-1101",
+    "avg_invoice_amount": 2707.5072727272727,
+    "invoice_count": 22,
+    "max_invoice_amount": 9024.24
+  },
+  {
+    "customer_id": "CUST-1103",
+    "avg_invoice_amount": 2260.5594736842104,
+    "invoice_count": 19,
+    "max_invoice_amount": 5800.99
+  },
+  {
+    "customer_id": "CUST-1104",
+    "avg_invoice_amount": 2231.3576470588237,
+    "invoice_count": 17,
+    "max_invoice_amount": 6512.04
+  },
+  {
+    "customer_id": "CUST-1106",
+    "avg_invoice_amount": 3015.869375,
+    "invoice_count": 16,
+    "max_invoice_amount": 7563.6
+  },
+  {
+    "customer_id": "CUST-1107",
+    "avg_invoice_amount": 2678.0515,
+    "invoice_count": 20,
+    "max_invoice_amount": 9990.0
+  },
+  {
+    "customer_id": "CUST-1108",
+    "avg_invoice_amount": 3696.1795454545454,
+    "invoice_count": 22,
+    "max_invoice_amount": 9483.85
+  },
+  {
+    "customer_id": "CUST-1109",
+    "avg_invoice_amount": 1999.4958823529412,
+    "invoice_count": 17,
+    "max_invoice_amount": 7716.0
+  },
+  {
+    "customer_id": "CUST-1110",
+    "avg_invoice_amount": 2171.732380952381,
+    "invoice_count": 21,
+    "max_invoice_amount": 6992.48
+  },
+  {
+    "customer_id": "CUST-1111",
+    "avg_invoice_amount": 3130.8293750000003,
+    "invoice_count": 16,
+    "max_invoice_amount": 8175.81
+  },
+  {
+    "customer_id": "CUST-1112",
+    "avg_invoice_amount": 2740.0714285714284,
+    "invoice_count": 28,
+    "max_invoice_amount": 9461.0
+  },
+  {
+    "customer_id": "CUST-1113",
+    "avg_invoice_amount": 3040.8837500000004,
+    "invoice_count": 24,
+    "max_invoice_amount": 8272.79
+  },
+  {
+    "customer_id": "CUST-1114",
+    "avg_invoice_amount": 3056.852,
+    "invoice_count": 15,
+    "max_invoice_amount": 6643.35
+  },
+  {
+    "customer_id": "CUST-1115",
+    "avg_invoice_amount": 2314.2726923076925,
+    "invoice_count": 26,
+    "max_invoice_amount": 9266.68
+  },
+  {
+    "customer_id": "CUST-1116",
+    "avg_invoice_amount": 2638.186,
+    "invoice_count": 20,
+    "max_invoice_amount": 5807.03
+  },
+  {
+    "customer_id": "CUST-1117",
+    "avg_invoice_amount": 2162.9281818181817,
+    "invoice_count": 22,
+    "max_invoice_amount": 6076.8
+  },
+  {
+    "customer_id": "CUST-1118",
+    "avg_invoice_amount": 2865.1205263157894,
+    "invoice_count": 19,
+    "max_invoice_amount": 6872.46
+  },
+  {
+    "customer_id": "CUST-1119",
+    "avg_invoice_amount": 1701.2225,
+    "invoice_count": 20,
+    "max_invoice_amount": 5167.52
+  },
+  {
+    "customer_id": "CUST-1120",
+    "avg_invoice_amount": 2434.0851851851853,
+    "invoice_count": 27,
+    "max_invoice_amount": 9338.69
+  },
+  {
+    "customer_id": "CUST-1121",
+    "avg_invoice_amount": 2867.6936363636364,
+    "invoice_count": 22,
+    "max_invoice_amount": 9179.0
+  },
+  {
+    "customer_id": "CUST-1123",
+    "avg_invoice_amount": 2561.7000000000003,
+    "invoice_count": 19,
+    "max_invoice_amount": 7116.66
+  },
+  {
+    "customer_id": "CUST-1124",
+    "avg_invoice_amount": 3057.49125,
+    "invoice_count": 16,
+    "max_invoice_amount": 8763.84
+  },
+  {
+    "customer_id": "CUST-1125",
+    "avg_invoice_amount": 2434.0416,
+    "invoice_count": 25,
+    "max_invoice_amount": 7861.48
+  },
+  {
+    "customer_id": "CUST-1126",
+    "avg_invoice_amount": 2479.808,
+    "invoice_count": 25,
+    "max_invoice_amount": 8358.56
+  },
+  {
+    "customer_id": "CUST-1128",
+    "avg_invoice_amount": 2854.7714285714283,
+    "invoice_count": 21,
+    "max_invoice_amount": 9238.8
+  },
+  {
+    "customer_id": "CUST-1129",
+    "avg_invoice_amount": 3124.0945,
+    "invoice_count": 20,
+    "max_invoice_amount": 7739.28
+  },
+  {
+    "customer_id": "CUST-1131",
+    "avg_invoice_amount": 2511.67619047619,
+    "invoice_count": 21,
+    "max_invoice_amount": 7687.97
+  },
+  {
+    "customer_id": "CUST-1132",
+    "avg_invoice_amount": 1869.4815789473685,
+    "invoice_count": 19,
+    "max_invoice_amount": 5312.45
+  },
+  {
+    "customer_id": "CUST-1133",
+    "avg_invoice_amount": 2712.453076923077,
+    "invoice_count": 26,
+    "max_invoice_amount": 6081.0
+  },
+  {
+    "customer_id": "CUST-1134",
+    "avg_invoice_amount": 2083.921875,
+    "invoice_count": 16,
+    "max_invoice_amount": 5333.38
+  },
+  {
+    "customer_id": "CUST-1137",
+    "avg_invoice_amount": 2778.1995833333335,
+    "invoice_count": 24,
+    "max_invoice_amount": 8911.2
+  },
+  {
+    "customer_id": "CUST-1138",
+    "avg_invoice_amount": 2786.040476190476,
+    "invoice_count": 21,
+    "max_invoice_amount": 7297.56
+  },
+  {
+    "customer_id": "CUST-1139",
+    "avg_invoice_amount": 2649.9736,
+    "invoice_count": 25,
+    "max_invoice_amount": 8264.52
+  },
+  {
+    "customer_id": "CUST-1140",
+    "avg_invoice_amount": 2580.455172413793,
+    "invoice_count": 29,
+    "max_invoice_amount": 6796.95
+  },
+  {
+    "customer_id": "CUST-1141",
+    "avg_invoice_amount": 1837.1573684210523,
+    "invoice_count": 19,
+    "max_invoice_amount": 5131.65
+  },
+  {
+    "customer_id": "CUST-1142",
+    "avg_invoice_amount": 2172.9763636363637,
+    "invoice_count": 22,
+    "max_invoice_amount": 8355.25
+  },
+  {
+    "customer_id": "CUST-1145",
+    "avg_invoice_amount": 3196.958888888889,
+    "invoice_count": 18,
+    "max_invoice_amount": 8009.64
+  },
+  {
+    "customer_id": "CUST-1146",
+    "avg_invoice_amount": 2725.42,
+    "invoice_count": 24,
+    "max_invoice_amount": 8470.77
+  },
+  {
+    "customer_id": "CUST-1147",
+    "avg_invoice_amount": 2774.852105263158,
+    "invoice_count": 19,
+    "max_invoice_amount": 7700.66
+  },
+  {
+    "customer_id": "CUST-1148",
+    "avg_invoice_amount": 2862.7245454545455,
+    "invoice_count": 11,
+    "max_invoice_amount": 8253.79
+  },
+  {
+    "customer_id": "CUST-1149",
+    "avg_invoice_amount": 2437.865652173913,
+    "invoice_count": 23,
+    "max_invoice_amount": 5531.88
+  },
+  {
+    "customer_id": "CUST-1150",
+    "avg_invoice_amount": 2425.474090909091,
+    "invoice_count": 22,
+    "max_invoice_amount": 7744.64
+  },
+  {
+    "customer_id": "CUST-1151",
+    "avg_invoice_amount": 2151.3204761904763,
+    "invoice_count": 21,
+    "max_invoice_amount": 6241.3
+  },
+  {
+    "customer_id": "CUST-1152",
+    "avg_invoice_amount": 2261.0660869565218,
+    "invoice_count": 23,
+    "max_invoice_amount": 7918.82
+  },
+  {
+    "customer_id": "CUST-1154",
+    "avg_invoice_amount": 3609.0076190476193,
+    "invoice_count": 21,
+    "max_invoice_amount": 8278.49
+  },
+  {
+    "customer_id": "CUST-1155",
+    "avg_invoice_amount": 3780.153,
+    "invoice_count": 20,
+    "max_invoice_amount": 9550.0
+  },
+  {
+    "customer_id": "CUST-1156",
+    "avg_invoice_amount": 3276.966086956522,
+    "invoice_count": 23,
+    "max_invoice_amount": 6938.1
+  },
+  {
+    "customer_id": "CUST-1157",
+    "avg_invoice_amount": 1493.4084615384616,
+    "invoice_count": 13,
+    "max_invoice_amount": 6666.8
+  },
+  {
+    "customer_id": "CUST-1158",
+    "avg_invoice_amount": 2933.26,
+    "invoice_count": 9,
+    "max_invoice_amount": 7514.6
+  },
+  {
+    "customer_id": "CUST-1159",
+    "avg_invoice_amount": 2858.893076923077,
+    "invoice_count": 26,
+    "max_invoice_amount": 8364.4
+  },
+  {
+    "customer_id": "CUST-1160",
+    "avg_invoice_amount": 2367.134827586207,
+    "invoice_count": 29,
+    "max_invoice_amount": 7465.4
+  },
+  {
+    "customer_id": "CUST-1161",
+    "avg_invoice_amount": 3117.267692307692,
+    "invoice_count": 26,
+    "max_invoice_amount": 6905.17
+  },
+  {
+    "customer_id": "CUST-1162",
+    "avg_invoice_amount": 2559.809583333333,
+    "invoice_count": 24,
+    "max_invoice_amount": 9337.0
+  },
+  {
+    "customer_id": "CUST-1163",
+    "avg_invoice_amount": 2166.203076923077,
+    "invoice_count": 26,
+    "max_invoice_amount": 6989.28
+  },
+  {
+    "customer_id": "CUST-1164",
+    "avg_invoice_amount": 2075.2366666666667,
+    "invoice_count": 21,
+    "max_invoice_amount": 7438.01
+  },
+  {
+    "customer_id": "CUST-1165",
+    "avg_invoice_amount": 2275.1968181818183,
+    "invoice_count": 22,
+    "max_invoice_amount": 6637.14
+  },
+  {
+    "customer_id": "CUST-1166",
+    "avg_invoice_amount": 2923.541,
+    "invoice_count": 20,
+    "max_invoice_amount": 9078.58
+  },
+  {
+    "customer_id": "CUST-1167",
+    "avg_invoice_amount": 2291.560588235294,
+    "invoice_count": 17,
+    "max_invoice_amount": 4232.64
+  },
+  {
+    "customer_id": "CUST-1168",
+    "avg_invoice_amount": 3348.888260869565,
+    "invoice_count": 23,
+    "max_invoice_amount": 8552.2
+  },
+  {
+    "customer_id": "CUST-1169",
+    "avg_invoice_amount": 3602.8008,
+    "invoice_count": 25,
+    "max_invoice_amount": 8755.2
+  },
+  {
+    "customer_id": "CUST-1170",
+    "avg_invoice_amount": 2206.3585185185184,
+    "invoice_count": 27,
+    "max_invoice_amount": 7299.0
+  },
+  {
+    "customer_id": "CUST-1171",
+    "avg_invoice_amount": 3265.763,
+    "invoice_count": 20,
+    "max_invoice_amount": 9177.38
+  },
+  {
+    "customer_id": "CUST-1173",
+    "avg_invoice_amount": 3091.654,
+    "invoice_count": 20,
+    "max_invoice_amount": 7515.07
+  },
+  {
+    "customer_id": "CUST-1176",
+    "avg_invoice_amount": 2847.978846153846,
+    "invoice_count": 26,
+    "max_invoice_amount": 7419.06
+  },
+  {
+    "customer_id": "CUST-1177",
+    "avg_invoice_amount": 3020.1625,
+    "invoice_count": 16,
+    "max_invoice_amount": 9269.91
+  },
+  {
+    "customer_id": "CUST-1178",
+    "avg_invoice_amount": 3601.1061111111107,
+    "invoice_count": 18,
+    "max_invoice_amount": 8914.32
+  },
+  {
+    "customer_id": "CUST-1179",
+    "avg_invoice_amount": 3096.9815789473687,
+    "invoice_count": 19,
+    "max_invoice_amount": 7443.75
+  },
+  {
+    "customer_id": "CUST-1180",
+    "avg_invoice_amount": 3237.504375,
+    "invoice_count": 16,
+    "max_invoice_amount": 7957.6
+  },
+  {
+    "customer_id": "CUST-1183",
+    "avg_invoice_amount": 2061.4385,
+    "invoice_count": 20,
+    "max_invoice_amount": 7243.18
+  },
+  {
+    "customer_id": "CUST-1184",
+    "avg_invoice_amount": 2869.4590476190474,
+    "invoice_count": 21,
+    "max_invoice_amount": 9433.2
+  },
+  {
+    "customer_id": "CUST-1185",
+    "avg_invoice_amount": 3554.8564285714283,
+    "invoice_count": 14,
+    "max_invoice_amount": 8111.89
+  },
+  {
+    "customer_id": "CUST-1186",
+    "avg_invoice_amount": 2711.6625,
+    "invoice_count": 24,
+    "max_invoice_amount": 7275.78
+  },
+  {
+    "customer_id": "CUST-1187",
+    "avg_invoice_amount": 3060.74875,
+    "invoice_count": 16,
+    "max_invoice_amount": 9834.4
+  },
+  {
+    "customer_id": "CUST-1188",
+    "avg_invoice_amount": 3209.386111111111,
+    "invoice_count": 18,
+    "max_invoice_amount": 8015.22
+  },
+  {
+    "customer_id": "CUST-1189",
+    "avg_invoice_amount": 3244.7455,
+    "invoice_count": 20,
+    "max_invoice_amount": 7693.2
+  },
+  {
+    "customer_id": "CUST-1190",
+    "avg_invoice_amount": 1918.2044444444448,
+    "invoice_count": 18,
+    "max_invoice_amount": 5557.2
+  },
+  {
+    "customer_id": "CUST-1191",
+    "avg_invoice_amount": 2830.8632,
+    "invoice_count": 25,
+    "max_invoice_amount": 8804.03
+  },
+  {
+    "customer_id": "CUST-1192",
+    "avg_invoice_amount": 2272.7992,
+    "invoice_count": 25,
+    "max_invoice_amount": 8869.14
+  },
+  {
+    "customer_id": "CUST-1193",
+    "avg_invoice_amount": 3390.361666666666,
+    "invoice_count": 18,
+    "max_invoice_amount": 9356.74
+  },
+  {
+    "customer_id": "CUST-1194",
+    "avg_invoice_amount": 3419.167307692308,
+    "invoice_count": 26,
+    "max_invoice_amount": 9854.2
+  },
+  {
+    "customer_id": "CUST-1195",
+    "avg_invoice_amount": 2528.5125,
+    "invoice_count": 16,
+    "max_invoice_amount": 7307.28
+  },
+  {
+    "customer_id": "CUST-1196",
+    "avg_invoice_amount": 3466.665,
+    "invoice_count": 26,
+    "max_invoice_amount": 9961.6
+  },
+  {
+    "customer_id": "CUST-1198",
+    "avg_invoice_amount": 2625.0129166666666,
+    "invoice_count": 24,
+    "max_invoice_amount": 9943.8
+  },
+  {
+    "customer_id": "CUST-1200",
+    "avg_invoice_amount": 2220.9305,
+    "invoice_count": 20,
+    "max_invoice_amount": 6577.06
+  },
+  {
+    "customer_id": "CUST-1202",
+    "avg_invoice_amount": 2630.5045,
+    "invoice_count": 20,
+    "max_invoice_amount": 6492.96
+  },
+  {
+    "customer_id": "CUST-1203",
+    "avg_invoice_amount": 1562.1313793103448,
+    "invoice_count": 29,
+    "max_invoice_amount": 5730.36
+  },
+  {
+    "customer_id": "CUST-1204",
+    "avg_invoice_amount": 2356.0451851851853,
+    "invoice_count": 27,
+    "max_invoice_amount": 9256.8
+  },
+  {
+    "customer_id": "CUST-1206",
+    "avg_invoice_amount": 2481.033529411765,
+    "invoice_count": 34,
+    "max_invoice_amount": 9472.64
+  },
+  {
+    "customer_id": "CUST-1208",
+    "avg_invoice_amount": 3145.6140909090905,
+    "invoice_count": 22,
+    "max_invoice_amount": 8716.63
+  },
+  {
+    "customer_id": "CUST-1209",
+    "avg_invoice_amount": 2377.33,
+    "invoice_count": 17,
+    "max_invoice_amount": 6095.2
+  },
+  {
+    "customer_id": "CUST-1210",
+    "avg_invoice_amount": 3122.3413043478263,
+    "invoice_count": 23,
+    "max_invoice_amount": 7534.26
+  },
+  {
+    "customer_id": "CUST-1212",
+    "avg_invoice_amount": 2156.3317647058825,
+    "invoice_count": 17,
+    "max_invoice_amount": 5151.24
+  },
+  {
+    "customer_id": "CUST-1213",
+    "avg_invoice_amount": 2133.847777777778,
+    "invoice_count": 18,
+    "max_invoice_amount": 5917.6
+  },
+  {
+    "customer_id": "CUST-1214",
+    "avg_invoice_amount": 2118.974166666667,
+    "invoice_count": 12,
+    "max_invoice_amount": 6486.06
+  },
+  {
+    "customer_id": "CUST-1215",
+    "avg_invoice_amount": 2981.851304347826,
+    "invoice_count": 23,
+    "max_invoice_amount": 7692.64
+  },
+  {
+    "customer_id": "CUST-1216",
+    "avg_invoice_amount": 3126.130416666667,
+    "invoice_count": 24,
+    "max_invoice_amount": 9214.62
+  },
+  {
+    "customer_id": "CUST-1218",
+    "avg_invoice_amount": 3115.5923076923073,
+    "invoice_count": 26,
+    "max_invoice_amount": 8610.66
+  },
+  {
+    "customer_id": "CUST-1219",
+    "avg_invoice_amount": 2957.422777777778,
+    "invoice_count": 18,
+    "max_invoice_amount": 9096.8
+  },
+  {
+    "customer_id": "CUST-1220",
+    "avg_invoice_amount": 3388.358888888889,
+    "invoice_count": 18,
+    "max_invoice_amount": 8778.96
+  },
+  {
+    "customer_id": "CUST-1221",
+    "avg_invoice_amount": 3180.488,
+    "invoice_count": 15,
+    "max_invoice_amount": 9951.4
+  },
+  {
+    "customer_id": "CUST-1222",
+    "avg_invoice_amount": 3034.8122222222223,
+    "invoice_count": 18,
+    "max_invoice_amount": 7748.6
+  },
+  {
+    "customer_id": "CUST-1223",
+    "avg_invoice_amount": 2040.2277272727272,
+    "invoice_count": 22,
+    "max_invoice_amount": 5493.46
+  },
+  {
+    "customer_id": "CUST-1224",
+    "avg_invoice_amount": 4150.344210526317,
+    "invoice_count": 19,
+    "max_invoice_amount": 9844.0
+  },
+  {
+    "customer_id": "CUST-1225",
+    "avg_invoice_amount": 2638.438666666667,
+    "invoice_count": 15,
+    "max_invoice_amount": 7930.44
+  },
+  {
+    "customer_id": "CUST-1227",
+    "avg_invoice_amount": 1479.4314285714286,
+    "invoice_count": 21,
+    "max_invoice_amount": 3435.6
+  },
+  {
+    "customer_id": "CUST-1228",
+    "avg_invoice_amount": 2085.0184999999997,
+    "invoice_count": 20,
+    "max_invoice_amount": 6136.5
+  },
+  {
+    "customer_id": "CUST-1229",
+    "avg_invoice_amount": 2447.039642857143,
+    "invoice_count": 28,
+    "max_invoice_amount": 9232.2
+  },
+  {
+    "customer_id": "CUST-1231",
+    "avg_invoice_amount": 2907.984117647059,
+    "invoice_count": 17,
+    "max_invoice_amount": 6766.2
+  },
+  {
+    "customer_id": "CUST-1232",
+    "avg_invoice_amount": 3257.15,
+    "invoice_count": 20,
+    "max_invoice_amount": 8368.55
+  },
+  {
+    "customer_id": "CUST-1235",
+    "avg_invoice_amount": 2851.1715999999997,
+    "invoice_count": 25,
+    "max_invoice_amount": 7343.15
+  },
+  {
+    "customer_id": "CUST-1236",
+    "avg_invoice_amount": 2269.540357142857,
+    "invoice_count": 28,
+    "max_invoice_amount": 7530.46
+  },
+  {
+    "customer_id": "CUST-1237",
+    "avg_invoice_amount": 2509.1407142857142,
+    "invoice_count": 14,
+    "max_invoice_amount": 8857.08
+  },
+  {
+    "customer_id": "CUST-1239",
+    "avg_invoice_amount": 2982.2877777777776,
+    "invoice_count": 18,
+    "max_invoice_amount": 8334.4
+  },
+  {
+    "customer_id": "CUST-1241",
+    "avg_invoice_amount": 1915.4293333333333,
+    "invoice_count": 30,
+    "max_invoice_amount": 6272.82
+  },
+  {
+    "customer_id": "CUST-1242",
+    "avg_invoice_amount": 2726.591304347826,
+    "invoice_count": 23,
+    "max_invoice_amount": 8409.73
+  },
+  {
+    "customer_id": "CUST-1243",
+    "avg_invoice_amount": 2891.6108333333336,
+    "invoice_count": 24,
+    "max_invoice_amount": 7908.6
+  },
+  {
+    "customer_id": "CUST-1246",
+    "avg_invoice_amount": 3001.8885185185186,
+    "invoice_count": 27,
+    "max_invoice_amount": 9499.0
+  },
+  {
+    "customer_id": "CUST-1247",
+    "avg_invoice_amount": 2237.5563157894735,
+    "invoice_count": 19,
+    "max_invoice_amount": 8143.2
+  },
+  {
+    "customer_id": "CUST-1249",
+    "avg_invoice_amount": 2343.519444444444,
+    "invoice_count": 18,
+    "max_invoice_amount": 6357.4
+  },
+  {
+    "customer_id": "CUST-1251",
+    "avg_invoice_amount": 2791.324375,
+    "invoice_count": 16,
+    "max_invoice_amount": 7504.74
+  },
+  {
+    "customer_id": "CUST-1252",
+    "avg_invoice_amount": 3587.9925000000003,
+    "invoice_count": 20,
+    "max_invoice_amount": 7744.86
+  },
+  {
+    "customer_id": "CUST-1254",
+    "avg_invoice_amount": 1993.1890476190476,
+    "invoice_count": 21,
+    "max_invoice_amount": 7015.5
+  },
+  {
+    "customer_id": "CUST-1255",
+    "avg_invoice_amount": 2979.9795833333333,
+    "invoice_count": 24,
+    "max_invoice_amount": 8693.07
+  },
+  {
+    "customer_id": "CUST-1256",
+    "avg_invoice_amount": 2631.6875,
+    "invoice_count": 24,
+    "max_invoice_amount": 6975.78
+  },
+  {
+    "customer_id": "CUST-1257",
+    "avg_invoice_amount": 3170.3319047619048,
+    "invoice_count": 21,
+    "max_invoice_amount": 9213.2
+  },
+  {
+    "customer_id": "CUST-1258",
+    "avg_invoice_amount": 2583.625833333333,
+    "invoice_count": 24,
+    "max_invoice_amount": 9166.93
+  },
+  {
+    "customer_id": "CUST-1259",
+    "avg_invoice_amount": 2843.317894736842,
+    "invoice_count": 19,
+    "max_invoice_amount": 9708.4
+  },
+  {
+    "customer_id": "CUST-1260",
+    "avg_invoice_amount": 2498.221739130435,
+    "invoice_count": 23,
+    "max_invoice_amount": 7530.84
+  },
+  {
+    "customer_id": "CUST-1261",
+    "avg_invoice_amount": 2431.338,
+    "invoice_count": 15,
+    "max_invoice_amount": 6799.34
+  },
+  {
+    "customer_id": "CUST-1262",
+    "avg_invoice_amount": 2609.894761904762,
+    "invoice_count": 21,
+    "max_invoice_amount": 7360.22
+  },
+  {
+    "customer_id": "CUST-1263",
+    "avg_invoice_amount": 2006.3533333333337,
+    "invoice_count": 18,
+    "max_invoice_amount": 5824.98
+  },
+  {
+    "customer_id": "CUST-1264",
+    "avg_invoice_amount": 3006.5433333333335,
+    "invoice_count": 21,
+    "max_invoice_amount": 8697.8
+  },
+  {
+    "customer_id": "CUST-1266",
+    "avg_invoice_amount": 2538.5064705882355,
+    "invoice_count": 17,
+    "max_invoice_amount": 6280.45
+  },
+  {
+    "customer_id": "CUST-1267",
+    "avg_invoice_amount": 2792.32,
+    "invoice_count": 20,
+    "max_invoice_amount": 8127.53
+  },
+  {
+    "customer_id": "CUST-1268",
+    "avg_invoice_amount": 3738.439545454545,
+    "invoice_count": 22,
+    "max_invoice_amount": 9026.71
+  },
+  {
+    "customer_id": "CUST-1270",
+    "avg_invoice_amount": 2194.9515,
+    "invoice_count": 20,
+    "max_invoice_amount": 7720.92
+  },
+  {
+    "customer_id": "CUST-1272",
+    "avg_invoice_amount": 2502.9338888888888,
+    "invoice_count": 18,
+    "max_invoice_amount": 7973.28
+  },
+  {
+    "customer_id": "CUST-1273",
+    "avg_invoice_amount": 3389.3576190476188,
+    "invoice_count": 21,
+    "max_invoice_amount": 8597.16
+  },
+  {
+    "customer_id": "CUST-1274",
+    "avg_invoice_amount": 2516.4795000000004,
+    "invoice_count": 20,
+    "max_invoice_amount": 7251.75
+  },
+  {
+    "customer_id": "CUST-1276",
+    "avg_invoice_amount": 2582.38625,
+    "invoice_count": 16,
+    "max_invoice_amount": 7342.6
+  },
+  {
+    "customer_id": "CUST-1278",
+    "avg_invoice_amount": 2633.0977272727273,
+    "invoice_count": 22,
+    "max_invoice_amount": 6826.82
+  },
+  {
+    "customer_id": "CUST-1279",
+    "avg_invoice_amount": 2293.035882352942,
+    "invoice_count": 17,
+    "max_invoice_amount": 6284.44
+  },
+  {
+    "customer_id": "CUST-1280",
+    "avg_invoice_amount": 2946.766111111111,
+    "invoice_count": 18,
+    "max_invoice_amount": 9278.27
+  },
+  {
+    "customer_id": "CUST-1281",
+    "avg_invoice_amount": 2021.811,
+    "invoice_count": 20,
+    "max_invoice_amount": 7957.39
+  },
+  {
+    "customer_id": "CUST-1282",
+    "avg_invoice_amount": 2558.0635294117646,
+    "invoice_count": 17,
+    "max_invoice_amount": 7000.8
+  },
+  {
+    "customer_id": "CUST-1283",
+    "avg_invoice_amount": 2489.810454545455,
+    "invoice_count": 22,
+    "max_invoice_amount": 7589.65
+  },
+  {
+    "customer_id": "CUST-1284",
+    "avg_invoice_amount": 3067.7672,
+    "invoice_count": 25,
+    "max_invoice_amount": 8867.34
+  },
+  {
+    "customer_id": "CUST-1285",
+    "avg_invoice_amount": 3483.6650000000004,
+    "invoice_count": 22,
+    "max_invoice_amount": 8985.42
+  },
+  {
+    "customer_id": "CUST-1286",
+    "avg_invoice_amount": 2623.383888888889,
+    "invoice_count": 18,
+    "max_invoice_amount": 7939.84
+  },
+  {
+    "customer_id": "CUST-1287",
+    "avg_invoice_amount": 2958.8349999999996,
+    "invoice_count": 24,
+    "max_invoice_amount": 6845.7
+  },
+  {
+    "customer_id": "CUST-1289",
+    "avg_invoice_amount": 2685.12625,
+    "invoice_count": 24,
+    "max_invoice_amount": 8199.2
+  },
+  {
+    "customer_id": "CUST-1291",
+    "avg_invoice_amount": 2539.012352941176,
+    "invoice_count": 17,
+    "max_invoice_amount": 9140.52
+  },
+  {
+    "customer_id": "CUST-1293",
+    "avg_invoice_amount": 2230.5395454545455,
+    "invoice_count": 22,
+    "max_invoice_amount": 6512.94
+  },
+  {
+    "customer_id": "CUST-1294",
+    "avg_invoice_amount": 2502.1793103448276,
+    "invoice_count": 29,
+    "max_invoice_amount": 9431.6
+  },
+  {
+    "customer_id": "CUST-1295",
+    "avg_invoice_amount": 3133.147272727273,
+    "invoice_count": 22,
+    "max_invoice_amount": 9037.16
+  },
+  {
+    "customer_id": "CUST-1297",
+    "avg_invoice_amount": 2305.1645454545455,
+    "invoice_count": 22,
+    "max_invoice_amount": 6676.41
+  },
+  {
+    "customer_id": "CUST-1298",
+    "avg_invoice_amount": 2539.7755555555555,
+    "invoice_count": 18,
+    "max_invoice_amount": 7616.16
+  },
+  {
+    "customer_id": "CUST-1299",
+    "avg_invoice_amount": 2376.43,
+    "invoice_count": 17,
+    "max_invoice_amount": 8511.6
+  },
+  {
+    "customer_id": "CUST-1300",
+    "avg_invoice_amount": 2402.276956521739,
+    "invoice_count": 23,
+    "max_invoice_amount": 7400.96
+  },
+  {
+    "customer_id": "CUST-1301",
+    "avg_invoice_amount": 2356.345909090909,
+    "invoice_count": 22,
+    "max_invoice_amount": 8004.96
+  },
+  {
+    "customer_id": "CUST-1302",
+    "avg_invoice_amount": 2630.4669999999996,
+    "invoice_count": 20,
+    "max_invoice_amount": 7932.2
+  },
+  {
+    "customer_id": "CUST-1303",
+    "avg_invoice_amount": 2563.7084999999997,
+    "invoice_count": 20,
+    "max_invoice_amount": 9064.71
+  },
+  {
+    "customer_id": "CUST-1304",
+    "avg_invoice_amount": 2686.6436363636367,
+    "invoice_count": 22,
+    "max_invoice_amount": 8475.9
+  },
+  {
+    "customer_id": "CUST-1305",
+    "avg_invoice_amount": 2371.2829166666666,
+    "invoice_count": 24,
+    "max_invoice_amount": 7138.3
+  },
+  {
+    "customer_id": "CUST-1306",
+    "avg_invoice_amount": 2518.4533333333334,
+    "invoice_count": 18,
+    "max_invoice_amount": 8283.24
+  },
+  {
+    "customer_id": "CUST-1307",
+    "avg_invoice_amount": 2510.368095238095,
+    "invoice_count": 21,
+    "max_invoice_amount": 9300.6
+  },
+  {
+    "customer_id": "CUST-1308",
+    "avg_invoice_amount": 2456.105555555556,
+    "invoice_count": 18,
+    "max_invoice_amount": 7006.35
+  },
+  {
+    "customer_id": "CUST-1310",
+    "avg_invoice_amount": 2362.481923076923,
+    "invoice_count": 26,
+    "max_invoice_amount": 7145.85
+  },
+  {
+    "customer_id": "CUST-1311",
+    "avg_invoice_amount": 2768.132380952381,
+    "invoice_count": 21,
+    "max_invoice_amount": 7262.0
+  },
+  {
+    "customer_id": "CUST-1312",
+    "avg_invoice_amount": 2526.3558823529415,
+    "invoice_count": 17,
+    "max_invoice_amount": 8248.66
+  },
+  {
+    "customer_id": "CUST-1314",
+    "avg_invoice_amount": 2396.4547368421054,
+    "invoice_count": 19,
+    "max_invoice_amount": 7912.16
+  },
+  {
+    "customer_id": "CUST-1315",
+    "avg_invoice_amount": 2868.257,
+    "invoice_count": 20,
+    "max_invoice_amount": 8313.0
+  },
+  {
+    "customer_id": "CUST-1316",
+    "avg_invoice_amount": 2438.75875,
+    "invoice_count": 16,
+    "max_invoice_amount": 5112.48
+  },
+  {
+    "customer_id": "CUST-1317",
+    "avg_invoice_amount": 2806.6525,
+    "invoice_count": 20,
+    "max_invoice_amount": 8238.6
+  },
+  {
+    "customer_id": "CUST-1318",
+    "avg_invoice_amount": 3123.426,
+    "invoice_count": 20,
+    "max_invoice_amount": 8490.82
+  },
+  {
+    "customer_id": "CUST-1321",
+    "avg_invoice_amount": 2755.3644,
+    "invoice_count": 25,
+    "max_invoice_amount": 7061.58
+  },
+  {
+    "customer_id": "CUST-1322",
+    "avg_invoice_amount": 2934.596666666667,
+    "invoice_count": 27,
+    "max_invoice_amount": 7740.9
+  },
+  {
+    "customer_id": "CUST-1323",
+    "avg_invoice_amount": 2944.0208695652173,
+    "invoice_count": 23,
+    "max_invoice_amount": 8384.8
+  },
+  {
+    "customer_id": "CUST-1324",
+    "avg_invoice_amount": 2764.752222222222,
+    "invoice_count": 27,
+    "max_invoice_amount": 6185.26
+  },
+  {
+    "customer_id": "CUST-1325",
+    "avg_invoice_amount": 2736.035833333334,
+    "invoice_count": 24,
+    "max_invoice_amount": 6875.65
+  },
+  {
+    "customer_id": "CUST-1326",
+    "avg_invoice_amount": 2660.0925,
+    "invoice_count": 12,
+    "max_invoice_amount": 7960.5
+  },
+  {
+    "customer_id": "CUST-1327",
+    "avg_invoice_amount": 1757.0044444444443,
+    "invoice_count": 18,
+    "max_invoice_amount": 7061.92
+  },
+  {
+    "customer_id": "CUST-1328",
+    "avg_invoice_amount": 2151.507894736842,
+    "invoice_count": 19,
+    "max_invoice_amount": 9082.4
+  },
+  {
+    "customer_id": "CUST-1329",
+    "avg_invoice_amount": 3589.1052173913044,
+    "invoice_count": 23,
+    "max_invoice_amount": 9713.8
+  },
+  {
+    "customer_id": "CUST-1330",
+    "avg_invoice_amount": 3543.246,
+    "invoice_count": 15,
+    "max_invoice_amount": 9386.76
+  },
+  {
+    "customer_id": "CUST-1331",
+    "avg_invoice_amount": 2038.4981818181816,
+    "invoice_count": 22,
+    "max_invoice_amount": 5534.75
+  },
+  {
+    "customer_id": "CUST-1333",
+    "avg_invoice_amount": 2883.1294117647058,
+    "invoice_count": 17,
+    "max_invoice_amount": 7923.68
+  },
+  {
+    "customer_id": "CUST-1335",
+    "avg_invoice_amount": 2782.251875,
+    "invoice_count": 16,
+    "max_invoice_amount": 7556.22
+  },
+  {
+    "customer_id": "CUST-1336",
+    "avg_invoice_amount": 3206.653888888889,
+    "invoice_count": 18,
+    "max_invoice_amount": 9513.8
+  },
+  {
+    "customer_id": "CUST-1337",
+    "avg_invoice_amount": 2208.0233333333335,
+    "invoice_count": 21,
+    "max_invoice_amount": 9460.29
+  },
+  {
+    "customer_id": "CUST-1339",
+    "avg_invoice_amount": 3269.518260869565,
+    "invoice_count": 23,
+    "max_invoice_amount": 7739.65
+  },
+  {
+    "customer_id": "CUST-1340",
+    "avg_invoice_amount": 3571.6705882352944,
+    "invoice_count": 17,
+    "max_invoice_amount": 7599.4
+  },
+  {
+    "customer_id": "CUST-1341",
+    "avg_invoice_amount": 2617.83,
+    "invoice_count": 20,
+    "max_invoice_amount": 7754.85
+  },
+  {
+    "customer_id": "CUST-1342",
+    "avg_invoice_amount": 1679.7481818181818,
+    "invoice_count": 22,
+    "max_invoice_amount": 6653.7
+  },
+  {
+    "customer_id": "CUST-1343",
+    "avg_invoice_amount": 2279.720625,
+    "invoice_count": 16,
+    "max_invoice_amount": 7715.7
+  },
+  {
+    "customer_id": "CUST-1344",
+    "avg_invoice_amount": 3093.9105,
+    "invoice_count": 20,
+    "max_invoice_amount": 8110.34
+  },
+  {
+    "customer_id": "CUST-1345",
+    "avg_invoice_amount": 2315.715882352941,
+    "invoice_count": 17,
+    "max_invoice_amount": 8510.58
+  },
+  {
+    "customer_id": "CUST-1346",
+    "avg_invoice_amount": 4055.401666666666,
+    "invoice_count": 18,
+    "max_invoice_amount": 8343.72
+  },
+  {
+    "customer_id": "CUST-1347",
+    "avg_invoice_amount": 2782.178125,
+    "invoice_count": 16,
+    "max_invoice_amount": 7119.0
+  },
+  {
+    "customer_id": "CUST-1348",
+    "avg_invoice_amount": 3181.8917391304344,
+    "invoice_count": 23,
+    "max_invoice_amount": 9031.65
+  },
+  {
+    "customer_id": "CUST-1349",
+    "avg_invoice_amount": 2628.056666666667,
+    "invoice_count": 18,
+    "max_invoice_amount": 8526.6
+  },
+  {
+    "customer_id": "CUST-1350",
+    "avg_invoice_amount": 2451.0423529411764,
+    "invoice_count": 17,
+    "max_invoice_amount": 4985.98
+  },
+  {
+    "customer_id": "CUST-1352",
+    "avg_invoice_amount": 2779.8572222222224,
+    "invoice_count": 18,
+    "max_invoice_amount": 5687.85
+  },
+  {
+    "customer_id": "CUST-1353",
+    "avg_invoice_amount": 2704.3585,
+    "invoice_count": 20,
+    "max_invoice_amount": 7738.91
+  },
+  {
+    "customer_id": "CUST-1354",
+    "avg_invoice_amount": 2338.6326666666664,
+    "invoice_count": 15,
+    "max_invoice_amount": 7689.44
+  },
+  {
+    "customer_id": "CUST-1355",
+    "avg_invoice_amount": 3609.588636363637,
+    "invoice_count": 22,
+    "max_invoice_amount": 9663.8
+  },
+  {
+    "customer_id": "CUST-1356",
+    "avg_invoice_amount": 2454.7785714285715,
+    "invoice_count": 21,
+    "max_invoice_amount": 8747.03
+  },
+  {
+    "customer_id": "CUST-1357",
+    "avg_invoice_amount": 2042.005625,
+    "invoice_count": 16,
+    "max_invoice_amount": 9310.0
+  },
+  {
+    "customer_id": "CUST-1358",
+    "avg_invoice_amount": 2144.295,
+    "invoice_count": 16,
+    "max_invoice_amount": 7444.13
+  },
+  {
+    "customer_id": "CUST-1359",
+    "avg_invoice_amount": 2704.1540000000005,
+    "invoice_count": 25,
+    "max_invoice_amount": 9964.8
+  },
+  {
+    "customer_id": "CUST-1361",
+    "avg_invoice_amount": 2795.268,
+    "invoice_count": 25,
+    "max_invoice_amount": 9822.0
+  },
+  {
+    "customer_id": "CUST-1363",
+    "avg_invoice_amount": 2690.421333333333,
+    "invoice_count": 15,
+    "max_invoice_amount": 6269.58
+  },
+  {
+    "customer_id": "CUST-1365",
+    "avg_invoice_amount": 2943.078095238095,
+    "invoice_count": 21,
+    "max_invoice_amount": 7247.61
+  },
+  {
+    "customer_id": "CUST-1366",
+    "avg_invoice_amount": 1865.435263157895,
+    "invoice_count": 19,
+    "max_invoice_amount": 6090.93
+  },
+  {
+    "customer_id": "CUST-1367",
+    "avg_invoice_amount": 2524.7605263157893,
+    "invoice_count": 19,
+    "max_invoice_amount": 7492.27
+  },
+  {
+    "customer_id": "CUST-1369",
+    "avg_invoice_amount": 2739.21,
+    "invoice_count": 17,
+    "max_invoice_amount": 5240.77
+  },
+  {
+    "customer_id": "CUST-1370",
+    "avg_invoice_amount": 2821.0244,
+    "invoice_count": 25,
+    "max_invoice_amount": 9038.68
+  },
+  {
+    "customer_id": "CUST-1371",
+    "avg_invoice_amount": 3075.7747368421055,
+    "invoice_count": 19,
+    "max_invoice_amount": 8871.3
+  },
+  {
+    "customer_id": "CUST-1372",
+    "avg_invoice_amount": 3538.8333333333335,
+    "invoice_count": 18,
+    "max_invoice_amount": 7388.8
+  },
+  {
+    "customer_id": "CUST-1373",
+    "avg_invoice_amount": 1927.387777777778,
+    "invoice_count": 18,
+    "max_invoice_amount": 6313.12
+  },
+  {
+    "customer_id": "CUST-1374",
+    "avg_invoice_amount": 2958.1988,
+    "invoice_count": 25,
+    "max_invoice_amount": 9135.2
+  },
+  {
+    "customer_id": "CUST-1376",
+    "avg_invoice_amount": 2383.376956521739,
+    "invoice_count": 23,
+    "max_invoice_amount": 5980.4
+  },
+  {
+    "customer_id": "CUST-1378",
+    "avg_invoice_amount": 2880.0684,
+    "invoice_count": 25,
+    "max_invoice_amount": 7938.66
+  },
+  {
+    "customer_id": "CUST-1379",
+    "avg_invoice_amount": 2790.8604347826085,
+    "invoice_count": 23,
+    "max_invoice_amount": 7960.2
+  },
+  {
+    "customer_id": "CUST-1380",
+    "avg_invoice_amount": 2678.4728571428573,
+    "invoice_count": 21,
+    "max_invoice_amount": 8420.8
+  },
+  {
+    "customer_id": "CUST-1382",
+    "avg_invoice_amount": 3064.14125,
+    "invoice_count": 24,
+    "max_invoice_amount": 7480.44
+  },
+  {
+    "customer_id": "CUST-1383",
+    "avg_invoice_amount": 2275.64125,
+    "invoice_count": 24,
+    "max_invoice_amount": 6964.72
+  },
+  {
+    "customer_id": "CUST-1384",
+    "avg_invoice_amount": 3669.482083333334,
+    "invoice_count": 24,
+    "max_invoice_amount": 9435.97
+  },
+  {
+    "customer_id": "CUST-1385",
+    "avg_invoice_amount": 2584.0733333333333,
+    "invoice_count": 18,
+    "max_invoice_amount": 7637.4
+  },
+  {
+    "customer_id": "CUST-1386",
+    "avg_invoice_amount": 2987.088947368421,
+    "invoice_count": 19,
+    "max_invoice_amount": 8219.34
+  },
+  {
+    "customer_id": "CUST-1387",
+    "avg_invoice_amount": 3186.948,
+    "invoice_count": 20,
+    "max_invoice_amount": 8224.56
+  },
+  {
+    "customer_id": "CUST-1388",
+    "avg_invoice_amount": 3370.134583333333,
+    "invoice_count": 24,
+    "max_invoice_amount": 7847.38
+  },
+  {
+    "customer_id": "CUST-1389",
+    "avg_invoice_amount": 2706.5884615384616,
+    "invoice_count": 26,
+    "max_invoice_amount": 8473.86
+  },
+  {
+    "customer_id": "CUST-1390",
+    "avg_invoice_amount": 2187.981904761905,
+    "invoice_count": 21,
+    "max_invoice_amount": 5352.3
+  },
+  {
+    "customer_id": "CUST-1391",
+    "avg_invoice_amount": 2542.5445454545456,
+    "invoice_count": 22,
+    "max_invoice_amount": 6488.39
+  },
+  {
+    "customer_id": "CUST-1394",
+    "avg_invoice_amount": 1862.305625,
+    "invoice_count": 16,
+    "max_invoice_amount": 6362.55
+  },
+  {
+    "customer_id": "CUST-1395",
+    "avg_invoice_amount": 2761.3070588235296,
+    "invoice_count": 17,
+    "max_invoice_amount": 7803.68
+  },
+  {
+    "customer_id": "CUST-1397",
+    "avg_invoice_amount": 2488.6173333333336,
+    "invoice_count": 15,
+    "max_invoice_amount": 7425.36
+  },
+  {
+    "customer_id": "CUST-1399",
+    "avg_invoice_amount": 2221.2826315789475,
+    "invoice_count": 19,
+    "max_invoice_amount": 6207.89
+  },
+  {
+    "customer_id": "CUST-1400",
+    "avg_invoice_amount": 2922.986956521739,
+    "invoice_count": 23,
+    "max_invoice_amount": 7967.7
+  }
+]
