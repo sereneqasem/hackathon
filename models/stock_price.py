@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 
 #Loading the csv file
 df = pd.read_csv("costco_stock_data.csv")
-
 #converting the date column to a datetime type
 df['Date'] = pd.to_datetime(df['Date'])
 df.sort_values('Date', inplace=True)
@@ -224,3 +223,29 @@ print(f"Test Loss: {test_loss.item():.4f}")
 #change the data to normal because right now we scalared it
 #all we have tro graoh actual labels vs predicted labels
 #and if it looks bad, i will take over, if it doesnt graph, create graohs 6 months, trends.
+
+def inverse_scale_close(scaled_data):
+    dummy = np.zeros((scaled_data.shape[0], len(features)))
+    dummy[:, 3] = scaled_data.squeeze()
+    return scaler.inverse_transform(dummy)[:, 3]
+
+y_test_np = y_test_tensor.cpu().numpy().squeeze()
+test_pred_np = test_pred.cpu().numpy().squeeze()
+unscaled_y = np.array([inverse_scale_close(y_test_np[i].reshape(-1, 1)) for i in range(len(y_test_np))])
+unscaled_pred = np.array([inverse_scale_close(test_pred_np[i].reshape(-1, 1)) for i in range(len(test_pred_np))])
+
+for sample_idx in [1, 3, 5, 10, 15]:
+    plt.figure(figsize=(12, 6))
+    plt.plot(unscaled_y[sample_idx], label='Actual Closing Price', linewidth=2)
+    plt.plot(unscaled_pred[sample_idx], label='Predicted Closing Price', linestyle='--')
+    plt.title(f"Sample Forecast vs Actual (Sample #{sample_idx})")
+    plt.xlabel("Days Ahead")
+    plt.ylabel("Price ($)")
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig("forecast_vs_actual_sample.png")
+    plt.show()
+    plt.ylim([min(unscaled_y[sample_idx]) - 50, max(unscaled_y[sample_idx]) + 50])
+    
+    
+
